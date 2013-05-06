@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "net.ifavorites.TWi2"
+    version   = "2.0.1">
+
+<name>台灣行動網站導航2.0</name>
+
+<description>
+《台灣行動網站導i-Favorites.net製作，專門收錄適合iPhone、Android、WM...等智慧手機上網時的行動版網站，內容以台灣／正體中文為主，方便台灣的智慧手機使用者上網找到需要的資料。
+
+</description>
+
+<author href="https://i-Favorites.net" email="myTouchGame@gmail.com">
+i-Favorites.net
+</author>
+
+</widget>
